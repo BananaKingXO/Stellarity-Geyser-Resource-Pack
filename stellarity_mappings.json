@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "items": {
+    "minecraft:tropical_fish": [
+      {
+        "bedrock_identifier": "stellarity:item/food/prismatic_sushi",
+        "model": "stellarity:prismatic_sushi",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/food/sushi",
+        "model": "stellarity:sushi",
+        "type": "definition"
+      }
+    ]
+  }
+}
