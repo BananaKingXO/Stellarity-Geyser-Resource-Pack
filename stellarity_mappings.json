@@ -1,6 +1,18 @@
 {
   "format_version": 2,
   "items": {
+    "minecraft:amethyst_shard": [
+      {
+        "bedrock_identifier": "stellarity:item/ender_insignia",
+        "model": "stellarity:life_crystal",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/enderite_shard",
+        "model": "stellarity:enderite_shard",
+        "type": "definition"
+      }
+    ],
     "minecraft:chorus_fruit": [
       {
         "bedrock_identifier": "stellarity:item/food/candied_chorus_fruit",
@@ -53,7 +65,7 @@
       },
       {
         "bedrock_identifier": "stellarity:item/food/fish/fleshy_piranha",
-        "model": "stellarity:flarefin_koi",
+        "model": "stellarity:fleshy_piranha",
         "type": "definition"
       },
       {
@@ -72,6 +84,163 @@
         "type": "definition"
       }
     ],
+    "minecraft:elytra": [
+      {
+        "bedrock_identifier": "stellarity:item/elytra/dragon_wings",
+        "model": "stellarity:dragon_wings",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/elytra/empress_wings",
+        "model": "stellarity:empress_wings",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/elytra/phantom_wings",
+        "model": "stellarity:phantom_wings",
+        "type": "definition"
+      }
+    ],
+    "minecraft:ender_pearl": [
+      {
+        "bedrock_identifier": "stellarity:item/prismatic_pearl",
+        "model": "stellarity:prismatic_pearl",
+        "type": "definition"
+      }
+    ],
+    "minecraft:fishing_rod": [
+      {
+        "bedrock_identifier": "stellarity:item/fisher_of_voids",
+        "model": "stellarity:fisher_of_voids",
+        "type": "definition"
+      }
+    ],
+    "minecraft:glowstone_dust": [
+      {
+        "bedrock_identifier": "stellarity:item/pixie_dust",
+        "model": "stellarity:starlight_soot",
+        "type": "definition"
+      }
+    ],
+    "minecraft:gold_nugget": [
+      {
+        "bedrock_identifier": "stellarity:item/soaring_insignia",
+        "model": "stellarity:soaring_insignia",
+        "type": "definition"
+      }
+    ],
+    "minecraft:iron_boots": [
+      {
+        "bedrock_identifier": "stellarity:item/champion_boots",
+        "model": "stellarity:champion_boots",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/hallowed_boots",
+        "model": "stellarity:hallowed_boots",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/floral_boots",
+        "model": "stellarity:floral_boots",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/shulker_boots",
+        "model": "stellarity:shulker_boots",
+        "type": "definition"
+      }
+    ],
+    "minecraft:iron_chestplate": [
+      {
+        "bedrock_identifier": "stellarity:item/champion_chestplate",
+        "model": "stellarity:champion_chestplate",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/hallowed_chestplate",
+        "model": "stellarity:hallowed_chestplate",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/floral_chestplate",
+        "model": "stellarity:floral_chestplate",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/shulker_chestplate",
+        "model": "stellarity:shulker_chestplate",
+        "type": "definition"
+      }
+    ],
+    "minecraft:iron_helmet": [
+      {
+        "bedrock_identifier": "stellarity:item/champion_helmet",
+        "model": "stellarity:champion_helmet",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/hallowed_helmet",
+        "model": "stellarity:hallowed_helmet",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/floral_helmet",
+        "model": "stellarity:floral_helmet",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/shulker_helmet",
+        "model": "stellarity:shulker_helmet",
+        "type": "definition"
+      }
+    ],
+    "minecraft:iron_ingot": [
+      {
+        "bedrock_identifier": "stellarity:item/hallowed_ingot",
+        "model": "stellarity:hallowed_ingot",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/chorus_plating",
+        "model": "stellarity:chorus_plating",
+        "type": "definition"
+      }
+    ],
+    "minecraft:iron_leggings": [
+      {
+        "bedrock_identifier": "stellarity:item/champion_leggings",
+        "model": "stellarity:champion_leggings",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/hallowed_leggings",
+        "model": "stellarity:hallowed_leggings",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/floral_leggings",
+        "model": "stellarity:floral_leggings",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/shulker_leggings",
+        "model": "stellarity:shulker_leggings",
+        "type": "definition"
+      }
+    ],
+    "minecraft:jigsaw": [
+      {
+        "bedrock_identifier": "stellarity:item/enderite_upgrade_smithing_template",
+        "model": "stellarity:enderite_smithing_template",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/sand_rune",
+        "model": "stellarity:sand_rune",
+        "type": "definition"
+      }
+    ],
     "minecraft:mushroom_stew": [
       {
         "bedrock_identifier": "stellarity:item/food/chorus_stew",
@@ -81,6 +250,126 @@
       {
         "bedrock_identifier": "stellarity:item/food/pho",
         "model": "stellarity:pho",
+        "type": "definition"
+      }
+    ],
+    "minecraft:music_disc_otherside": [
+      {
+        "bedrock_identifier": "stellarity:item/music_disc/deviants_light_music_box",
+        "model": "stellarity:music_disc_deviants_light_music_box",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/music_disc/fires_of_hokkai",
+        "model": "stellarity:music_disc_fires_of_hokkai",
+        "type": "definition"
+      }
+    ],  
+    "minecraft:music_disc_precipice": [
+      {
+        "bedrock_identifier": "stellarity:item/music_disc/precipice_stereo",
+        "model": "stellarity:music_disc_precipice_stereo",
+        "type": "definition"
+      }
+    ], 
+    "minecraft:netherite_axe": [
+      {
+        "bedrock_identifier": "stellarity:item/kaleidoscope",
+        "model": "stellarity:kaleidoscope",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/fluffy_hammer",
+        "model": "stellarity:fluffy_hammer",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/shulker_axe",
+        "model": "stellarity:shulker_axe",
+        "type": "definition"
+      }
+    ],
+    "minecraft:netherite_hoe": [
+      {
+        "bedrock_identifier": "stellarity:item/shulker_hoe",
+        "model": "stellarity:shulker_hoe",
+        "type": "definition"
+      }
+    ],
+    "minecraft:netherite_pickaxe": [
+      {
+        "bedrock_identifier": "stellarity:item/shulker_pickaxe",
+        "model": "stellarity:shulker_pickaxe",
+        "type": "definition"
+      }
+    ],
+    "minecraft:netherite_shovel": [
+      {
+        "bedrock_identifier": "stellarity:item/shulker_shovel",
+        "model": "stellarity:shulker_shovel",
+        "type": "definition"
+      }
+    ],
+    "minecraft:netherite_spear": [
+      {
+        "bedrock_identifier": "stellarity:item/shulker_spear",
+        "model": "stellarity:shulker_spear",
+        "type": "definition"
+      }
+    ],
+    "minecraft:netherite_sword": [
+      {
+        "bedrock_identifier": "stellarity:item/dragonblade",
+        "model": "stellarity:dragonblade",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/prismember",
+        "model": "stellarity:prismember",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/the_beginning",
+        "model": "stellarity:the_beginning",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/the_beginning",
+        "model": "stellarity:the_beginning",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/tamaris",
+        "model": "stellarity:tamaris",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/stellar_striker",
+        "model": "stellarity:stellar_striker",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/shulker_sword",
+        "model": "stellarity:shulker_sword",
+        "type": "definition"
+      }
+    ],
+    "minecraft:ominous_trial_key": [
+      {
+        "bedrock_identifier": "stellarity:item/gilded_purpur_key",
+        "model": "stellarity:gilded_purpur_key",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/winged_key",
+        "model": "stellarity:winged_key",
+        "type": "definition"
+      }
+    ],
+    "minecraft:popped_chorus_fruit": [
+      {
+        "bedrock_identifier": "stellarity:item/endermans_hand",
+        "model": "stellarity:endermans_hand",
         "type": "definition"
       }
     ],
@@ -110,6 +399,34 @@
         "type": "definition"
       }
     ],
+    "minecraft:snowball": [
+      {
+        "bedrock_identifier": "stellarity:item/ender_egg",
+        "model": "stellarity:ender_egg",
+        "type": "definition"
+      }
+    ],  
+    "minecraft:sweet_berries": [
+      {
+        "bedrock_identifier": "stellarity:item/duskberry",
+        "model": "stellarity:duskberry",
+        "type": "definition"
+      }
+    ],
+    "minecraft:trial_key": [
+      {
+        "bedrock_identifier": "stellarity:item/purpur_key",
+        "model": "stellarity:purpur_key",
+        "type": "definition"
+      }
+    ],
+    "minecraft:trident": [
+      {
+        "bedrock_identifier": "stellarity:item/sandstorm_trident",
+        "model": "stellarity:sandstorm_trident",
+        "type": "definition"
+      }
+    ],
     "minecraft:tropical_fish": [
       {
         "bedrock_identifier": "stellarity:item/food/prismatic_sushi",
@@ -124,6 +441,57 @@
       {
         "bedrock_identifier": "stellarity:item/food/fish/ender_koi",
         "model": "stellarity:ender_koi",
+        "type": "definition"
+      }
+    ],
+    "minecraft:warped_fungus_on_a_stick": [
+      {
+        "bedrock_identifier": "stellarity:item/book_of_conveyance",
+        "model": "stellarity:book_of_conveyance",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/book_of_jinx",
+        "model": "stellarity:book_of_jinx",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/book_of_light",
+        "model": "stellarity:book_of_light",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/book_of_obstruct",
+        "model": "stellarity:book_of_jinx",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/book_of_return",
+        "model": "stellarity:book_of_return",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/book_of_updraft",
+        "model": "stellarity:book_of_updraft",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/satchel_of_voids",
+        "model": "stellarity:satchel_of_voids",
+        "type": "definition"
+      }
+    ],
+    "minecraft:wooden_hoe": [
+      {
+        "bedrock_identifier": "stellarity:item/starless_scythe",
+        "model": "stellarity:starless_scythe",
+        "type": "definition"
+      }
+    ],
+    "minecraft:wooden_sword": [
+      {
+        "bedrock_identifier": "stellarity:item/ancient_wooden_sword",
+        "model": "stellarity:ancient_wooden_sword",
         "type": "definition"
       }
     ]
