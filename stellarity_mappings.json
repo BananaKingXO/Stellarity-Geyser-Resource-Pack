@@ -1,6 +1,115 @@
 {
   "format_version": 2,
   "items": {
+    "minecraft:chorus_fruit": [
+      {
+        "bedrock_identifier": "stellarity:item/food/candied_chorus_fruit",
+        "model": "stellarity:candied_chorus_fruit",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/food/fried_chorus_fruit",
+        "model": "stellarity:fried_chorus_fruit",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/food/golden_chorus_fruit",
+        "model": "stellarity:golden_chorus_fruit",
+        "type": "definition"
+      }
+    ],
+    "minecraft:cooked_beef": [
+      {
+        "bedrock_identifier": "stellarity:item/food/frozen_carpaccio",
+        "model": "stellarity:frozen_carpaccio",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/food/grilled_enderman_flesh",
+        "model": "stellarity:grilled_enderman_flesh",
+        "type": "definition"
+      }
+    ],
+    "minecraft:cooked_cod": [
+      {
+        "bedrock_identifier": "stellarity:item/food/fish/amethyst_budfish",
+        "model": "stellarity:amethyst_budfish",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/food/fish/crimson_tigerfish",
+        "model": "stellarity:crimson_tigerfish",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/food/fish/crystal_heartfish",
+        "model": "stellarity:crystal_heartfish",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/food/fish/flarefin_koi",
+        "model": "stellarity:flarefin_koi",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/food/fish/fleshy_piranha",
+        "model": "stellarity:flarefin_koi",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/food/fish/frost_minnow",
+        "model": "stellarity:frost_minnow",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/food/fish/overgrown_cod",
+        "model": "stellarity:overgrown_cod",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/food/fish/prismite",
+        "model": "stellarity:prismite",
+        "type": "definition"
+      }
+    ],
+    "minecraft:mushroom_stew": [
+      {
+        "bedrock_identifier": "stellarity:item/food/chorus_stew",
+        "model": "stellarity:chorus_stew",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/food/pho",
+        "model": "stellarity:pho",
+        "type": "definition"
+      }
+    ],
+    "minecraft:pufferfish": [
+      {
+        "bedrock_identifier": "stellarity:item/food/fish/bubblefish",
+        "model": "stellarity:bubblefish",
+        "type": "definition"
+      }
+    ],
+    "minecraft:pumpkin_pie": [
+      {
+        "bedrock_identifier": "stellarity:item/food/chorus_pie",
+        "model": "stellarity:chorus_pie",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/food/shepherds_pie",
+        "model": "stellarity:shepherds_pie",
+        "type": "definition"
+      }
+    ],
+    "minecraft:rotten_flesh": [
+      {
+        "bedrock_identifier": "stellarity:item/food/enderman_flesh",
+        "model": "stellarity:enderman_flesh",
+        "type": "definition"
+      }
+    ],
     "minecraft:tropical_fish": [
       {
         "bedrock_identifier": "stellarity:item/food/prismatic_sushi",
@@ -10,6 +119,11 @@
       {
         "bedrock_identifier": "stellarity:item/food/sushi",
         "model": "stellarity:sushi",
+        "type": "definition"
+      },
+      {
+        "bedrock_identifier": "stellarity:item/food/fish/ender_koi",
+        "model": "stellarity:ender_koi",
         "type": "definition"
       }
     ]
